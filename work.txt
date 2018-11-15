@@ -1,0 +1,4 @@
+apple, banana, pear
+grapefruit
+grape, satsuma, watermelon
+litchi
